@@ -1,0 +1,329 @@
+
+2019-04-17 21:24:59 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:25:05 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:25:05 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:25:11 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:25:11 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:25:16 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连成功！！
+2019-04-17 21:25:16 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:25:22 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:25:22 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:25:28 ERROR [nioEventLoopGroup-2-6] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:25:28 ERROR [nioEventLoopGroup-2-6] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:25:34 ERROR [nioEventLoopGroup-2-7] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:25:34 ERROR [nioEventLoopGroup-2-7] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:25:41 ERROR [nioEventLoopGroup-2-8] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:25:41 ERROR [nioEventLoopGroup-2-8] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:25:47 ERROR [nioEventLoopGroup-2-9] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:25:47 ERROR [nioEventLoopGroup-2-9] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:25:53 ERROR [nioEventLoopGroup-2-10] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:25:53 ERROR [nioEventLoopGroup-2-10] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:25:59 ERROR [nioEventLoopGroup-2-11] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:25:59 ERROR [nioEventLoopGroup-2-11] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:26:05 ERROR [nioEventLoopGroup-2-12] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:26:05 ERROR [nioEventLoopGroup-2-12] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:26:11 ERROR [nioEventLoopGroup-2-13] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:26:11 ERROR [nioEventLoopGroup-2-13] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:26:17 ERROR [nioEventLoopGroup-2-14] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:26:17 ERROR [nioEventLoopGroup-2-14] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:26:23 ERROR [nioEventLoopGroup-2-15] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:26:23 ERROR [nioEventLoopGroup-2-15] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:26:29 ERROR [nioEventLoopGroup-2-16] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:26:29 ERROR [nioEventLoopGroup-2-16] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:26:35 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:26:35 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:26:42 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:26:42 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:26:48 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:26:48 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:26:54 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:26:54 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:27:00 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:27:00 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:27:06 ERROR [nioEventLoopGroup-2-6] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:27:06 ERROR [nioEventLoopGroup-2-6] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:27:12 ERROR [nioEventLoopGroup-2-7] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:27:12 ERROR [nioEventLoopGroup-2-7] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:27:18 ERROR [nioEventLoopGroup-2-8] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:27:18 ERROR [nioEventLoopGroup-2-8] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:27:24 ERROR [nioEventLoopGroup-2-9] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:27:24 ERROR [nioEventLoopGroup-2-9] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:27:30 ERROR [nioEventLoopGroup-2-10] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:27:30 ERROR [nioEventLoopGroup-2-10] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:27:36 ERROR [nioEventLoopGroup-2-11] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:27:36 ERROR [nioEventLoopGroup-2-11] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:27:43 ERROR [nioEventLoopGroup-2-12] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:27:43 ERROR [nioEventLoopGroup-2-12] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:27:49 ERROR [nioEventLoopGroup-2-13] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:27:49 ERROR [nioEventLoopGroup-2-13] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:27:55 ERROR [nioEventLoopGroup-2-14] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:27:55 ERROR [nioEventLoopGroup-2-14] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:28:01 ERROR [nioEventLoopGroup-2-15] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:28:01 ERROR [nioEventLoopGroup-2-15] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:28:07 ERROR [nioEventLoopGroup-2-16] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:28:07 ERROR [nioEventLoopGroup-2-16] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:28:13 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:28:13 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:28:19 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:28:19 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:28:25 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:28:25 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:28:31 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:28:31 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:28:37 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:28:37 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:28:44 ERROR [nioEventLoopGroup-2-6] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:28:44 ERROR [nioEventLoopGroup-2-6] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:28:50 ERROR [nioEventLoopGroup-2-7] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:28:50 ERROR [nioEventLoopGroup-2-7] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:28:56 ERROR [nioEventLoopGroup-2-8] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:28:56 ERROR [nioEventLoopGroup-2-8] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:29:02 ERROR [nioEventLoopGroup-2-9] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:29:02 ERROR [nioEventLoopGroup-2-9] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:29:08 ERROR [nioEventLoopGroup-2-10] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:29:08 ERROR [nioEventLoopGroup-2-10] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:29:14 ERROR [nioEventLoopGroup-2-11] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:29:14 ERROR [nioEventLoopGroup-2-11] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:29:20 ERROR [nioEventLoopGroup-2-12] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:29:20 ERROR [nioEventLoopGroup-2-12] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:29:26 ERROR [nioEventLoopGroup-2-13] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:29:26 ERROR [nioEventLoopGroup-2-13] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:29:32 ERROR [nioEventLoopGroup-2-14] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:29:32 ERROR [nioEventLoopGroup-2-14] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:29:38 ERROR [nioEventLoopGroup-2-15] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:29:38 ERROR [nioEventLoopGroup-2-15] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:29:45 ERROR [nioEventLoopGroup-2-16] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:29:45 ERROR [nioEventLoopGroup-2-16] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:29:51 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:29:51 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:29:57 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:29:57 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:30:03 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:30:03 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:30:09 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:30:09 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:30:15 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:30:15 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:30:21 ERROR [nioEventLoopGroup-2-6] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:30:21 ERROR [nioEventLoopGroup-2-6] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:30:27 ERROR [nioEventLoopGroup-2-7] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:30:27 ERROR [nioEventLoopGroup-2-7] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:30:33 ERROR [nioEventLoopGroup-2-8] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:30:33 ERROR [nioEventLoopGroup-2-8] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:30:39 ERROR [nioEventLoopGroup-2-9] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:30:39 ERROR [nioEventLoopGroup-2-9] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:30:46 ERROR [nioEventLoopGroup-2-10] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:30:46 ERROR [nioEventLoopGroup-2-10] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:30:52 ERROR [nioEventLoopGroup-2-11] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:30:52 ERROR [nioEventLoopGroup-2-11] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:30:58 ERROR [nioEventLoopGroup-2-12] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:30:58 ERROR [nioEventLoopGroup-2-12] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:31:04 ERROR [nioEventLoopGroup-2-13] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:31:04 ERROR [nioEventLoopGroup-2-13] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:31:10 ERROR [nioEventLoopGroup-2-14] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:31:10 ERROR [nioEventLoopGroup-2-14] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:31:16 ERROR [nioEventLoopGroup-2-15] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:31:16 ERROR [nioEventLoopGroup-2-15] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:31:22 ERROR [nioEventLoopGroup-2-16] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:31:22 ERROR [nioEventLoopGroup-2-16] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:31:28 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:31:28 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:31:34 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:31:34 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:31:40 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:31:40 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:31:47 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:31:47 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:31:53 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:31:53 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:31:59 ERROR [nioEventLoopGroup-2-6] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:31:59 ERROR [nioEventLoopGroup-2-6] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:32:05 ERROR [nioEventLoopGroup-2-7] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:32:05 ERROR [nioEventLoopGroup-2-7] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:32:11 ERROR [nioEventLoopGroup-2-8] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:32:11 ERROR [nioEventLoopGroup-2-8] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:32:17 ERROR [nioEventLoopGroup-2-9] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 21:32:17 ERROR [nioEventLoopGroup-2-9] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 21:32:23 ERROR [nioEventLoopGroup-2-10] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连成功！！
+2019-04-17 22:25:41 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 22:25:47 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 22:25:47 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 22:37:51 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 22:37:57 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 22:37:57 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 22:38:03 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 22:38:03 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 22:38:09 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连成功！！
+2019-04-17 22:50:33 ERROR [nioEventLoopGroup-2-1] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 22:50:39 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 22:50:39 ERROR [nioEventLoopGroup-2-2] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 22:50:45 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 22:50:45 ERROR [nioEventLoopGroup-2-3] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 22:50:50 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连成功！！
+2019-04-17 22:52:36 ERROR [nioEventLoopGroup-2-4] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...
+2019-04-17 22:52:42 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+重连失败！！
+2019-04-17 22:52:42 ERROR [nioEventLoopGroup-2-5] com.ujuit.usds.sdk.service.ULogger LineNumbers:60
+与服务器断开连接，开始尝试重连...

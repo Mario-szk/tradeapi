@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration scan="true" scanPeriod="60 seconds" debug="false">
+
+	<conversionRule conversionWord="uline"
+   					converterClass="com.trade.usds.sdk.log.ULineConverter" />
+  	<conversionRule conversionWord="uclass"
+   					converterClass="com.trade.usds.sdk.log.UClassicConverter" />
+	<property name="log_path" value="/home/ulogs/fileorderclient" />
+
+
+	<appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<pattern>%n%d{yyyy-MM-dd HH:mm:ss} %-5level [%thread] %uclass LineNumbers:%uline%n%msg</pattern>
+		</encoder>
+	</appender>
+
+	<!-- 下单 -->
+	<appender name="order"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<!-- 是否追加写入文件,默认为true -->
+		<append>true</append>
+
+		<!-- 指定按时间划分日志的规则 -->
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<!-- 规则模式/会被当做目录分隔符,可以为相对路径或绝对路径 -->
+			<fileNamePattern>${log_path}/order-%d{yyyy-MM-dd}.log.gz
+			</fileNamePattern>
+			<!-- 指定30天后删除保存的日志文件 -->
+			<maxHistory>365</maxHistory>
+		</rollingPolicy>
+		<!-- 对日志进行格式化 %n -->
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<pattern>%n%d{yyyy-MM-dd HH:mm:ss} %level [%thread] %uclass LineNumbers:%uline%n%msg</pattern>
+		</encoder>
+	</appender>
+
+	<!-- 全部 -->
+	<appender name="all"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<!-- 是否追加写入文件,默认为true -->
+		<append>true</append>
+
+		<!-- 指定按时间划分日志的规则 -->
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<!-- 规则模式/会被当做目录分隔符,可以为相对路径或绝对路径 -->
+			<fileNamePattern>${log_path}/all-%d{yyyy-MM-dd}.log.gz
+			</fileNamePattern>
+			<!-- 指定30天后删除保存的日志文件 -->
+			<maxHistory>365</maxHistory>
+		</rollingPolicy>
+		<!-- 对日志进行格式化 %n -->
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<pattern>%n%d{yyyy-MM-dd HH:mm:ss} %level [%thread] %uclass LineNumbers:%uline%n%msg</pattern>
+		</encoder>
+	</appender>
+
+	<!-- 成交 -->
+	<appender name="deal"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<!-- 是否追加写入文件,默认为true -->
+		<append>true</append>
+
+		<!-- 指定按时间划分日志的规则 -->
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<!-- 规则模式/会被当做目录分隔符,可以为相对路径或绝对路径 -->
+			<fileNamePattern>${log_path}/deal-%d{yyyy-MM-dd}.log.gz
+			</fileNamePattern>
+			<!-- 指定30天后删除保存的日志文件 -->
+			<maxHistory>365</maxHistory>
+
+		</rollingPolicy>
+		<!-- 对日志进行格式化 %n -->
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<pattern>%n%d{yyyy-MM-dd HH:mm:ss} %level [%thread] %uclass LineNumbers:%uline%n%msg</pattern>
+		</encoder>
+	</appender>
+
+	<!-- 异常报错 -->
+	<appender name="error"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<!-- 是否追加写入文件,默认为true -->
+		<append>true</append>
+
+		<!-- 指定按时间划分日志的规则 -->
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<!-- 规则模式/会被当做目录分隔符,可以为相对路径或绝对路径 -->
+			<fileNamePattern>${log_path}/error-%d{yyyy-MM-dd}.log.gz
+			</fileNamePattern>
+			<!-- 指定30天后删除保存的日志文件 -->
+			<maxHistory>365</maxHistory>
+
+		</rollingPolicy>
+		<!-- 对日志进行格式化 %n -->
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<pattern>%n%d{yyyy-MM-dd HH:mm:ss} %level [%thread] %uclass LineNumbers:%uline%n%msg</pattern>
+		</encoder>
+	</appender>
+
+	<!-- 定时任务记录 -->
+	<appender name="task"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<!-- 是否追加写入文件,默认为true -->
+		<append>true</append>
+
+		<!-- 指定按时间划分日志的规则 -->
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<!-- 规则模式/会被当做目录分隔符,可以为相对路径或绝对路径 -->
+			<fileNamePattern>${log_path}/task-%d{yyyy-MM-dd}.log.gz
+			</fileNamePattern>
+			<!-- 指定30天后删除保存的日志文件 -->
+			<maxHistory>365</maxHistory>
+
+		</rollingPolicy>
+
+		<!-- 对日志进行格式化 %n -->
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<pattern>%n%d{yyyy-MM-dd HH:mm:ss} %level [%thread] %uclass LineNumbers:%uline%n%msg</pattern>
+		</encoder>
+	</appender>
+	
+	<!-- 定时任务记录 -->
+	<appender name="api"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<!-- 是否追加写入文件,默认为true -->
+		<append>true</append>
+
+		<!-- 指定按时间划分日志的规则 -->
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<!-- 规则模式/会被当做目录分隔符,可以为相对路径或绝对路径 -->
+			<fileNamePattern>${log_path}/api-%d{yyyy-MM-dd}.log.gz
+			</fileNamePattern>
+			<!-- 指定30天后删除保存的日志文件 -->
+			<maxHistory>365</maxHistory>
+
+		</rollingPolicy>
+
+		<!-- 对日志进行格式化 %n -->
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<pattern>%n%d{yyyy-MM-dd HH:mm:ss} %level [%thread] %uclass LineNumbers:%uline%n%msg</pattern>
+		</encoder>
+	</appender>
+
+	<!-- <appender>是<configuration>的子节点,是负责写日志的组件.<appender>有两个必要属性name和class.name指定appender名称,class指定appender的全限定名. -->
+	<!-- 按规则来划分日志 -->
+
+	<!-- 测试多文件日志打印 -->
+	<logger name="order" level="info" additivity="false">
+		<appender-ref ref="order" />
+		<appender-ref ref="console" />
+	</logger>
+
+
+
+	<!-- 定时任务记录 -->
+	<appender name="other"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<!-- 是否追加写入文件,默认为true -->
+		<append>true</append>
+
+		<!-- 指定按时间划分日志的规则 -->
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<!-- 规则模式/会被当做目录分隔符,可以为相对路径或绝对路径 -->
+			<fileNamePattern>${log_path}/api-%d{yyyy-MM-dd}.log.gz
+			</fileNamePattern>
+			<!-- 指定30天后删除保存的日志文件 -->
+			<maxHistory>365</maxHistory>
+
+		</rollingPolicy>
+
+		<!-- 对日志进行格式化 %n -->
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<pattern>%n%d{yyyy-MM-dd HH:mm:ss} %level [%thread] %uclass LineNumbers:%uline%n%msg</pattern>
+		</encoder>
+	</appender>
+
+	<!-- <appender>是<configuration>的子节点,是负责写日志的组件.<appender>有两个必要属性name和class.name指定appender名称,class指定appender的全限定名. -->
+	<!-- 按规则来划分日志 -->
+
+	<!-- 测试多文件日志打印 -->
+	<logger name="other" level="error" additivity="false">
+		<appender-ref ref="other" />
+	</logger>
+
+
+	<!-- 测试多文件日志打印 -->
+	<logger name="deal" level="info" additivity="false">
+		<appender-ref ref="deal" />
+		<appender-ref ref="all" />
+		<appender-ref ref="console" />
+	</logger>
+	<logger name="task" level="info" additivity="false">
+		<appender-ref ref="task" />
+		<appender-ref ref="all" />
+		<appender-ref ref="console" />
+	</logger>
+	<logger name="error" level="warn" additivity="false">
+		<appender-ref ref="error" />
+		<appender-ref ref="all" />
+		<appender-ref ref="console" />
+	</logger>
+	
+	<logger name="api" level="info" additivity="false">
+		<appender-ref ref="api" />
+ 
+	</logger>
+	
+	<logger name="all" level="info" additivity="false">
+	<appender-ref ref="all" />
+	<appender-ref ref="console" />
+	</logger>
+
+	<root  level="warn">
+		<appender-ref ref="console" />
+		<appender-ref ref="all" />
+	</root>
+
+</configuration>
