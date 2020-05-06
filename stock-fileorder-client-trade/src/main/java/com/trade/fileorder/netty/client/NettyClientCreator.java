@@ -96,11 +96,6 @@ public class NettyClientCreator{
 
 	public static void main(String[] args) {
 		AccountInfo accountInfo = new AccountInfo();
-//		accountInfo.setAccount("123");
-//		accountInfo.setPassword("456");
-//		accountInfo.setSecId("20");
-//		accountInfo.setIp("171.221.254.18");
-//		accountInfo.setIp("192.168.0.45");
 		
 		accountInfo.setAccount("123");
 		accountInfo.setPassword("456");
